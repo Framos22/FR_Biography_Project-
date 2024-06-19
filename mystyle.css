@@ -1,0 +1,36 @@
+body {
+
+    background-color: darkred;
+    color: aliceblue;
+    margin: 50px; 
+}
+
+h1 {
+
+    color: black;
+    text-align: center;
+    text-decoration: underline;
+}
+
+h2 {
+
+    color: blue;
+}
+
+p {
+
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+.resume-pic {
+    float: right;
+    border: 2px solid;
+    margin: 0 0 10px 10px;
+    padding: 5px;
+    width: 500px;
+}
+
+ul, ol {
+    margin-left: 20px;
+}
